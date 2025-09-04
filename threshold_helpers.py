@@ -117,8 +117,3 @@ def print_counts(df, num_clusters, markers_and_operator, print=False) -> list:
 
 
     return res
-
-# function to assign cell type based on combination of positive and negative markers
-
-def assign_cell_type(sheet, cell_type, pos_markers, neg_markers):
-    return None
